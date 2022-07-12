@@ -41,7 +41,8 @@ People use GitHub to build some of the most advanced technologies in the world. 
 endstep0-->
 
 <!-- 
-  <<< Author notes: Step 1 >>> 
+  <<< Author notes: Step 1 >>>
+ Pace yourself
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
